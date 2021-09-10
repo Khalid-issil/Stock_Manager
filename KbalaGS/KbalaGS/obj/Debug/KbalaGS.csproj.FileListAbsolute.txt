@@ -1,0 +1,110 @@
+C:\Users\dell\Desktop\Projet de Fin de formation\KbalaGS\KbalaGS\bin\Debug\KbalaGS.exe.config
+C:\Users\dell\Desktop\Projet de Fin de formation\KbalaGS\KbalaGS\bin\Debug\KbalaGS.exe
+C:\Users\dell\Desktop\Projet de Fin de formation\KbalaGS\KbalaGS\bin\Debug\KbalaGS.pdb
+C:\Users\dell\Desktop\Projet de Fin de formation\KbalaGS\KbalaGS\obj\Debug\KbalaGS.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\Projet de Fin de formation\KbalaGS\KbalaGS\obj\Debug\KbalaGS.Form1.resources
+C:\Users\dell\Desktop\Projet de Fin de formation\KbalaGS\KbalaGS\obj\Debug\KbalaGS.Properties.Resources.resources
+C:\Users\dell\Desktop\Projet de Fin de formation\KbalaGS\KbalaGS\obj\Debug\KbalaGS.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\Projet de Fin de formation\KbalaGS\KbalaGS\obj\Debug\KbalaGS.exe
+C:\Users\dell\Desktop\Projet de Fin de formation\KbalaGS\KbalaGS\obj\Debug\KbalaGS.pdb
+C:\Users\dell\Desktop\Projet de Fin de formation\KbalaGS\KbalaGS\obj\Debug\KbalaGS.LoginFrm.resources
+C:\Users\dell\Desktop\PGSFF\KbalaGS\KbalaGS\bin\Debug\KbalaGS.exe.config
+C:\Users\dell\Desktop\PGSFF\KbalaGS\KbalaGS\obj\Debug\KbalaGS.exe
+C:\Users\dell\Desktop\PGSFF\KbalaGS\KbalaGS\obj\Debug\KbalaGS.pdb
+C:\Users\dell\Desktop\PGSFF\KbalaGS\KbalaGS\bin\Debug\KbalaGS.exe
+C:\Users\dell\Desktop\PGSFF\KbalaGS\KbalaGS\bin\Debug\KbalaGS.pdb
+C:\Users\dell\Desktop\PGSFF\KbalaGS\KbalaGS\obj\Debug\KbalaGS.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\PGSFF\KbalaGS\KbalaGS\obj\Debug\KbalaGS.Form1.resources
+C:\Users\dell\Desktop\PGSFF\KbalaGS\KbalaGS\obj\Debug\KbalaGS.LoginFrm.resources
+C:\Users\dell\Desktop\PGSFF\KbalaGS\KbalaGS\obj\Debug\KbalaGS.Properties.Resources.resources
+C:\Users\dell\Desktop\PGSFF\KbalaGS\KbalaGS\obj\Debug\KbalaGS.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\PGSFF\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmClient.resources
+C:\Users\dell\Desktop\PGSFF\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmAjouterClient.resources
+C:\Users\dell\Desktop\PGSFF\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmModifierClient.resources
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\bin\Debug\KbalaGS.exe.config
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.exe
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.pdb
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\bin\Debug\KbalaGS.exe
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\bin\Debug\KbalaGS.pdb
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.Form1.resources
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmAjouterClient.resources
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmClient.resources
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmModifierClient.resources
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmProduit.resources
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.LoginFrm.resources
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.Properties.Resources.resources
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmAjouterProduit.resources
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmModifierProduit.resources
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.PhotoProduit.resources
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.frmAjouterCategorie.resources
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmCategorie.resources
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.frmModifierCategorie.resources
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.frmErrorSupprimerCategorie.resources
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmCommande.resources
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmProduitCommande.resources
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.Frm_Ajouter_Commande.resources
+C:\Users\dell\Desktop\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.List_Client_Commande.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\bin\Debug\KbalaGS.exe.config
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.exe
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.pdb
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\bin\Debug\KbalaGS.exe
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\bin\Debug\KbalaGS.pdb
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.csprojResolveAssemblyReference.cache
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.Form1.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.frmAjouterCategorie.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmAjouterClient.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmAjouterProduit.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmCategorie.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmClient.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmCommande.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.frmErrorSupprimerCategorie.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.frmModifierCategorie.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmModifierClient.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmModifierProduit.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmProduit.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmProduitCommande.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.Frm_Ajouter_Commande.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.List_Client_Commande.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.LoginFrm.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.PhotoProduit.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.Properties.Resources.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.csproj.GenerateResource.Cache
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmModifierProduitCommande.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.AutreMethodeRechercheClient.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmDetailsCommande.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmUtilisateurs.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmAjouterUser.resources
+C:\Users\dell\OneDrive\Bureau\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmModifierUser.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\bin\Debug\KbalaGS.exe.config
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.exe
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.pdb
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\bin\Debug\KbalaGS.exe
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\bin\Debug\KbalaGS.pdb
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.csprojResolveAssemblyReference.cache
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.AutreMethodeRechercheClient.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.Form1.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.frmAjouterCategorie.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmAjouterClient.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmAjouterProduit.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmAjouterUser.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmCategorie.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmClient.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmCommande.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.frmErrorSupprimerCategorie.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.frmModifierCategorie.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmModifierClient.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmModifierProduit.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmModifierProduitCommande.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmModifierUser.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmProduit.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmProduitCommande.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmDetailsCommande.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.FrmUtilisateurs.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.Frm_Ajouter_Commande.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.List_Client_Commande.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.LoginFrm.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.PhotoProduit.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.Properties.Resources.resources
+D:\OFPPT\2 eme annee\2TDI\Sabour\Cours Ado\Apps Gestion De Stock\KbalaGS\KbalaGS\obj\Debug\KbalaGS.csproj.GenerateResource.Cache

@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{262B899E-46B5-47FF-AFCD-3F9FE9BD749E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KbalaGS</RootNamespace>
+    <AssemblyName>KbalaGS</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADO.cs" />
+    <Compile Include="AutreMethodeRechercheClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutreMethodeRechercheClient.Designer.cs">
+      <DependentUpon>AutreMethodeRechercheClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAjouterCategorie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAjouterCategorie.Designer.cs">
+      <DependentUpon>frmAjouterCategorie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAjouterClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAjouterClient.Designer.cs">
+      <DependentUpon>FrmAjouterClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAjouterProduit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAjouterProduit.Designer.cs">
+      <DependentUpon>FrmAjouterProduit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAjouterUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAjouterUser.Designer.cs">
+      <DependentUpon>FrmAjouterUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCategorie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCategorie.Designer.cs">
+      <DependentUpon>FrmCategorie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmClient.Designer.cs">
+      <DependentUpon>FrmClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCommande.Designer.cs">
+      <DependentUpon>FrmCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmErrorSupprimerCategorie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmErrorSupprimerCategorie.Designer.cs">
+      <DependentUpon>frmErrorSupprimerCategorie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmModifierCategorie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModifierCategorie.Designer.cs">
+      <DependentUpon>frmModifierCategorie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModifierClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModifierClient.Designer.cs">
+      <DependentUpon>FrmModifierClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModifierProduit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModifierProduit.Designer.cs">
+      <DependentUpon>FrmModifierProduit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModifierProduitCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModifierProduitCommande.Designer.cs">
+      <DependentUpon>FrmModifierProduitCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModifierUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModifierUser.Designer.cs">
+      <DependentUpon>FrmModifierUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProduit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProduit.Designer.cs">
+      <DependentUpon>FrmProduit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProduitCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProduitCommande.Designer.cs">
+      <DependentUpon>FrmProduitCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDetailsCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDetailsCommande.Designer.cs">
+      <DependentUpon>FrmDetailsCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUtilisateurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUtilisateurs.Designer.cs">
+      <DependentUpon>FrmUtilisateurs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Ajouter_Commande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Ajouter_Commande.Designer.cs">
+      <DependentUpon>Frm_Ajouter_Commande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Client_Commande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Client_Commande.Designer.cs">
+      <DependentUpon>List_Client_Commande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginFrm.Designer.cs">
+      <DependentUpon>LoginFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhotoProduit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhotoProduit.Designer.cs">
+      <DependentUpon>PhotoProduit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AutreMethodeRechercheClient.resx">
+      <DependentUpon>AutreMethodeRechercheClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAjouterCategorie.resx">
+      <DependentUpon>frmAjouterCategorie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAjouterClient.resx">
+      <DependentUpon>FrmAjouterClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAjouterProduit.resx">
+      <DependentUpon>FrmAjouterProduit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAjouterUser.resx">
+      <DependentUpon>FrmAjouterUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCategorie.resx">
+      <DependentUpon>FrmCategorie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmClient.resx">
+      <DependentUpon>FrmClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCommande.resx">
+      <DependentUpon>FrmCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmErrorSupprimerCategorie.resx">
+      <DependentUpon>frmErrorSupprimerCategorie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModifierCategorie.resx">
+      <DependentUpon>frmModifierCategorie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModifierClient.resx">
+      <DependentUpon>FrmModifierClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModifierProduit.resx">
+      <DependentUpon>FrmModifierProduit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModifierProduitCommande.resx">
+      <DependentUpon>FrmModifierProduitCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModifierUser.resx">
+      <DependentUpon>FrmModifierUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProduit.resx">
+      <DependentUpon>FrmProduit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProduitCommande.resx">
+      <DependentUpon>FrmProduitCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDetailsCommande.resx">
+      <DependentUpon>FrmDetailsCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUtilisateurs.resx">
+      <DependentUpon>FrmUtilisateurs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Ajouter_Commande.resx">
+      <DependentUpon>Frm_Ajouter_Commande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Client_Commande.resx">
+      <DependentUpon>List_Client_Commande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginFrm.resx">
+      <DependentUpon>LoginFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhotoProduit.resx">
+      <DependentUpon>PhotoProduit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
